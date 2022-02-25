@@ -41,6 +41,7 @@ const Carousel = () => {
 
     useEffect(() => {
         fetchTendingCoins();
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [currency])
 
 
