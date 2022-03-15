@@ -15,9 +15,9 @@ Begin by cloaning the repo and npm installing all the dependencies. Once that is
 
 ## Deployed Application
 
-![Screenshot](photo/crypto.png)
-![Screenshot](photo/usd.png)
-![Screenshot](photo/eur.png)
+![Screenshot](photos/crypto.png)
+![Screenshot](photos/usd.png)
+![Screenshot](photos/eur.png)
 
 ## Questions
 
