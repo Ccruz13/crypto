@@ -15,6 +15,8 @@ Begin by cloaning the repo and npm installing all the dependencies. Once that is
 
 ## Deployed Application
 
+https://cryptowatchers.netlify.app/
+
 ![Screenshot](photos/crypto.png)
 ![Screenshot](photos/usd.png)
 ![Screenshot](photos/eur.png)
